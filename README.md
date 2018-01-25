@@ -20,7 +20,7 @@
 **Font Family: Arial Narrow**
 
 `body {
-     font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+     font-family: "Arial Narrow", Arial, sans-serif;
      font-size: 16px;
      color: #000;
 }`<br/><br/>
