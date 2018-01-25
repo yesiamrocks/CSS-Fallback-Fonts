@@ -3,9 +3,9 @@
 ## Sans serif fonts
 **Font Name: Arial**
 
-`p {
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 16px;
-	color: #000;
+`body {
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     font-size: 16px;
+     color: #000;
 }
 `
