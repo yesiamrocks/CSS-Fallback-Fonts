@@ -1,1 +1,1 @@
-# Collection-of-web-safe-CSS-fonts
+# Collection of Web Safe CSS Fonts
