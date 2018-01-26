@@ -163,3 +163,159 @@
      font-size: 16px;
      color: #000;
 }`<br/><br/>
+
+# Serif fonts
+
+**Font Family: Big Caslon**
+
+`body {
+     font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Didot**
+
+`body {
+     font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Lucida Bright**
+
+`body {
+     font-family: "Lucida Bright", Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Baskerville**
+
+`body {
+     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Hoefler Text**
+
+`body {
+     font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Goudy Old Style**
+
+`body {
+     font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Cambria**
+
+`body {
+     font-family: Cambria, Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Rockwell**
+
+`body {
+     font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Times New Roman**
+
+`body {
+     font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Perpetua**
+
+`body {
+     font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Bodoni MT**
+
+`body {
+     font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Georgia**
+
+`body {
+     font-family: Georgia, Times, "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Palatino**
+
+`body {
+     font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Rockwell Extra Bold**
+
+`body {
+     font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Garamond**
+
+`body {
+     font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Book Antiqua**
+
+`body {
+     font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Calisto MT**
+
+`body {
+     font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
