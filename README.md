@@ -1,7 +1,5 @@
-# Collection of Web Safe CSS Fonts
-No worries to find the appropriate fonts for your new website, Just use this CSS code and reduce your brainstorming about web safe font.
+# Sans serif fonts
 
-## Sans serif fonts
 **Font Family: Arial**
 
 `body {
