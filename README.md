@@ -319,3 +319,57 @@
 }`<br/><br/>
 
 
+# Monospaced
+
+**Font Family: Lucida Console**
+
+`body {
+     font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Andale Mono**
+
+`body {
+     font-family: "Andale Mono", AndaleMono, monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Courier New**
+
+`body {
+     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Monaco**
+
+`body {
+     font-family: monaco, Consolas, "Lucida Console", monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Consolas**
+
+`body {
+     font-family: Consolas, monaco, monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
+
+
+**Font Family: Lucida Sans Typewriter**
+
+`body {
+     font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+     font-size: 16px;
+     color: #000;
+}`<br/><br/>
