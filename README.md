@@ -2,19 +2,25 @@
 
 **Font Family: Arial**
 
-```body {
+```
+body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 16px;
 	color: #000;
-}```<br/><br/>
+}
+```
+<br/><br/>
 
 **Font Family: Arial Black**
 
-```body {
+```
+body {
      font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
      font-size: 16px;
      color: #000;
-}```<br/><br/>
+}
+```
+<br/><br/>
 
 **Font Family: Arial Narrow**
 
