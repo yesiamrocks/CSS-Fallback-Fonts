@@ -1,18 +1,6 @@
 # Sans serif fonts
 
 **Font Family: Arial**
-# IfWinActive ahk_exe Notepad.exe
-`!n::
-WinGetPos, varx, vary, varw, varh, A
-varx+=8
-varw-=16
-vary+=50
-varh-=58
-Gui, Color, 0x4488FF
-Gui, +LastFound +AlwaysOnTop -Caption +E0x20
-WinSet, Transparent, 120
-Gui, Show, x%varx% y%vary% w%varw% h%varh% NoActivate, Overlay`
-
 
 `body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
