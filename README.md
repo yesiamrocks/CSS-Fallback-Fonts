@@ -35,7 +35,7 @@
 **Font Family: Century Gothic**
 
 `body {
-     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;<br/>
+     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;\
      font-size: 16px;
      color: #000;
 }`<br/><br/>
