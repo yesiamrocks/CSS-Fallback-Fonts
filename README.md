@@ -3,8 +3,8 @@
 **Font Family: Arial**
 
 `body {
-     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
-     font-size: 16px;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;\n
+     font-size: 16px;\n
      color: #000;
 }`<br/><br/>
 
