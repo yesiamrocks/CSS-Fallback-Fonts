@@ -1,4 +1,4 @@
-# CSS-Fallback-Fonts
+# Collection of Commonly Used CSS Fallback Fonts
 
 ## Sans serif fonts
 
