@@ -3,9 +3,9 @@
 **Font Family: Arial**
 
 `body {
-     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;\n
-     font-size: 16px;\n
-     color: #000;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000;
 }`<br/><br/>
 
 **Font Family: Arial Black**
