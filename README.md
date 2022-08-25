@@ -227,7 +227,7 @@ body {
 ```
 <br/>
 
-# Serif fonts
+## Serif fonts
 
 **Font Family: Big Caslon**
 
@@ -433,7 +433,7 @@ body {
 <br/>
 
 
-# Monospaced
+## Monospaced
 
 **Font Family: Lucida Console**
 
